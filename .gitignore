@@ -1,0 +1,32 @@
+# .gitignore
+
+# cache
+*.py[cod]
+__pycache__/
+.DS_Store
+*/.DS_Store
+# records/log/save
+# records/*/
+# records/*.csv
+# logs/*/
+# save/*/
+
+# dataset
+dataset/vns/
+dataset/pn/
+
+# test
+# for_test.py
+    
+# other
+# other
+# visualization
+# shortest_path
+
+# unfinished
+# algo/learning/a3c_seq2seq_gcn
+# algo/learning/ppo_gat
+# algo/learning/gnn_ppo
+# algo/learning/ppo_conv_time_reward
+
+# restore
