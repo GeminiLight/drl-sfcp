@@ -19,14 +19,14 @@ bash install.sh -c 11.3
 ## Quick Start
 
 ```shell
-python main.py
+python main.py --solver_name=$SOLVER_NAME
 ```
 
-You can find more detailed usage in `main.py` and `config.py`.
+Here, you can choose `SOLVER_NAME` from `a3c_gcn_seq2seq`, `grc_rank`, `mcts`, etc. And you can find more detailed usage in `main.py` and `config.py`.
 
 ## Simulation Settings
 
-Please refer to `settings/p_net_setting.yaml` and `v_sim_setting.yaml` for more details.
+Please refer to `settings/p_net_setting.yaml` and `settings/v_sim_setting.yaml` for more details.
 
 ## Citation
 
