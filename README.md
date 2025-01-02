@@ -1,10 +1,10 @@
 # DRL-SFCP
 
-PyTorch implementation of our paper "[DRL-SFCP: Adaptive Service Function Chains Placement with Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9500964)" which is accepted by ICC 2021.
+This is the implementation of our paper titled "[DRL-SFCP: Adaptive Service Function Chains Placement with Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9500964)", which is accepted by ICC 2021.
 
 
 **Note: 
-This algorithm has been integrated into [Virne](https://github.com/GeminiLight/virne), a NFV simulator, where you can find more details.**
+This algorithm has been integrated into [Virne](https://github.com/GeminiLight/virne), an NFV simulator, where you can find more details.**
 
 ## Installation
 
@@ -30,7 +30,7 @@ Please refer to `settings/p_net_setting.yaml` and `settings/v_sim_setting.yaml` 
 
 ## Citation
 
-If you find this code useful in your research, please consider citing:
+If you find this code useful in your research, please consider citing it:
 
 ```bibtex
 @INPROCEEDINGS{tfw-icc-2021-drl-sfcp,
@@ -44,3 +44,8 @@ If you find this code useful in your research, please consider citing:
   doi={10.1109/ICC42927.2021.9500964}
 }
 ```
+
+## More Resources
+
+- [Virne: An Comprehensive Simulator for Resource Allocation in NFV Networks](https://github.com/GeminiLight/virne)
+- [SDN-NFV Papers on Resource Management](https://github.com/GeminiLight/sdn-nfv-papers)
