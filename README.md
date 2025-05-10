@@ -2,9 +2,11 @@
 
 This is the implementation of our paper titled "[DRL-SFCP: Adaptive Service Function Chains Placement with Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9500964)", which is accepted by ICC 2021.
 
-
-**Note: 
-This algorithm has been integrated into [Virne](https://github.com/GeminiLight/virne), an NFV simulator, where you can find more details.**
+> [!IMPORTANT]  
+> :sparkles: We have integrated DRL-SFCP into [*Virne*
+](https://github.com/GeminiLight/virne), our comprehensive framework for NFV-RA,.
+>
+> This project is more now more user-friendly and well-structured.
 
 ## Installation
 
